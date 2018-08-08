@@ -89,5 +89,18 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rena2010020143/myProject.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rena2010020143/myProject/issues"
+  },
+  "homepage": "https://github.com/rena2010020143/myProject#readme"
 }
